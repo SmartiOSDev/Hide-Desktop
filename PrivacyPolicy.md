@@ -11,7 +11,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Data**
 
-This app access only your Application Scripts with this app folder to save app setup file . The developer of this application is not liable for any such things.
+This app access only your Application Scripts with this app folder to save app setup file. The developer of this application is not liable for any such things.
 This application doesn't send the data to any service and all the data are stored locally only.
 
 **Changes to This Privacy Policy**
